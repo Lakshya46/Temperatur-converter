@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">temperature converter</string>
+    <string name="temperature">TEMPERATURE</string>
+    <string name="celsius">celsius</string>
+    <string name="temperature_converter">temperature converter</string>
+    <string name="backgroundimge_des" />
+    <string name="textResult">0</string>
+    <string name="eidt_hint" >Enter the temperaure </string>
+    <string name="fahrenheit">fahrenheit</string>
+</resources>
